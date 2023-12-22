@@ -1,0 +1,8 @@
+Pillow
+matplotlib
+scikit-learn
+torch
+torchvision
+tqdm
+opencv-python
+numpy
