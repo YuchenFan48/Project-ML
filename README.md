@@ -1,5 +1,9 @@
 # Project-ML: Facial Expression Analysis with Deep Learning
 
+## Important Note
+
+To maintain the academic integrity, this repository is just used for reference. Any copy is not allowed.
+
 ## Overview
 "Project-ML" is a comprehensive machine learning research project focused on facial expression analysis. Utilizing advanced deep learning techniques, the project aims to classify facial expressions and detect head poses from images.
 
